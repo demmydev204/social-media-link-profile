@@ -121,7 +121,7 @@ a:active {
 
 @media screen and (min-width: 375px) {
   .card {
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
 }
